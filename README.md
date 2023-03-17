@@ -3,6 +3,11 @@
 
 This is a web application that fetches real-time weather data from an API and displays it to the user. Users can search for the weather in different locations and view hourly, daily, and weekly forecasts.
 
+### Demo
+ 
+ https://weather-app-example.vercel.app/
+ 
+
 ### Features
 
 -   Fetches real-time weather data from an API
